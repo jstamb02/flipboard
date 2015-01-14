@@ -114,8 +114,9 @@
 
 .slide-feature {
   text-align: center;
-  background-image: url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/flipboard/ac.png');
+  background-image: url('http://placekitten.com/500/600');
   height: 470px;
+  background-position: cover;
 }
 
 .slide-feature img {
